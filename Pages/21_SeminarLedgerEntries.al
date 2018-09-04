@@ -7,6 +7,7 @@ page 123456721 "CSD Seminar Ledger Entries"
     PageType = List;
     SourceTable = "CSD Seminar Ledger Entry";
     Editable=false;
+    UsageCategory = Lists; //missing in solution
 
     layout
     {
